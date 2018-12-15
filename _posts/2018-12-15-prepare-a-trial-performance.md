@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Feature images
+title: 통합테스트중...
 tags: example
 feature-img: "assets/img/sample_feature_img.png"
 ---
