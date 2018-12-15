@@ -16,7 +16,7 @@ theme_settings:
      <p>developer's Improvisation...!</p>
 
      
-  header_text_feature_image: assets/img/header-image-2.jpg    # assets/img/myPhotoS.jpg 
+  header_text_feature_image: assets/img/header-image-3.jpg    # assets/img/myPhotoS.jpg 
   footer_text: >
    Powered by <a href="https://blog.daum.net/urlover">wclee</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
@@ -29,7 +29,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "wclee7/type-theme"
+  github: "wclee7/spring"
   google_plus:
   instagram:
   linkedin:  # Full URL
