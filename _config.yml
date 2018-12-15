@@ -24,7 +24,7 @@ theme_settings:
   rss: false
   email_address: urlover@hanmail.net # Full email address, e.g. "sam@example.com"
   behance:
-  bitbucket: "https://bitbucket.org/ailucytest/"
+  bitbucket: "ailucytest"
   dribbble:
   facebook:
   flickr:
