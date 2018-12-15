@@ -13,10 +13,10 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>developer's instrument...!</p>
+     <p>developer's Improvisation...!</p>
 
-     #<p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
-  header_text_feature_image:
+     
+  header_text_feature_image: assets/img/sample_feature_img.png
   footer_text: >
    Powered by <a href="https://blog.daum.net/urlover">wclee</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
