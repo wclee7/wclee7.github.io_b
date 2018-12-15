@@ -18,13 +18,13 @@ theme_settings:
      
   header_text_feature_image: assets/img/header-image-1.jpg    # assets/img/myPhotoS.jpg 
   footer_text: >
-   Powered by <a href="https://blog.daum.net/urlover">wclee</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
+   Powered by <a href="http://blog.daum.net/urlover">wclee</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: urlover@hanmail.net # Full email address, e.g. "sam@example.com"
   behance:
-  bitbucket:
+  bitbucket: "https://bitbucket.org/ailucytest/"
   dribbble:
   facebook:
   flickr:
@@ -66,11 +66,11 @@ theme_settings:
   google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
 
   # Post navigation
-  post_navigation: false
+  post_navigation: true #false
 
 # PAGINATION
 paginate: 5
-paginate_path: "blog/page:num"
+paginate_path: "/page:num" # "blog/page:num"
 
 # BUILD SETTINGS
 markdown: kramdown
